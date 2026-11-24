@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^19.0.0-beta-4508873393-20240430",
     "react-dom": "^19.0.0-beta-4508873393-20240430",
-    "react-router-dom": "^6.22.2"
+    "react-router-dom": "^7.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
